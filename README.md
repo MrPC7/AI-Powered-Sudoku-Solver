@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  # Sudoku Solver with Computer Vision and Deep Learning
 
 ## Introduction
